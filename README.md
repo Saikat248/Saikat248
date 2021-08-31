@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saikat Roy
 - 👀 I’m interested in scientific python programming.
 - 🌱 I’m currently a PhD student
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me at saikat403@gmail.com
 
 <!---
